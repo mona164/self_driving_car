@@ -1,6 +1,5 @@
 fastapi==0.115.5
 uvicorn==0.32.0
-pyngrok==7.2.1
 ultralytics==8.3.29 
 roboflow==1.1.48 
 supervision==0.25.0
