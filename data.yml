@@ -1,0 +1,15 @@
+names:
+- Person
+- Traffic Light
+- bike
+- vehicle
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: od-for-autonomous-vehicles
+  url: https://universe.roboflow.com/raneem-hussien-fkq0x/od-for-autonomous-vehicles/dataset/13
+  version: 13
+  workspace: raneem-hussien-fkq0x
+test: ../test/images
+train: ../train/images
+val: ../valid/images
